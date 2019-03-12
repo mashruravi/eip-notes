@@ -1,1 +1,12 @@
+plugins:
+  - jekyll-relativ-links
+relativ_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+
 theme: jekyll-theme-cayman
+title: EIP notes
+description: Notes taken during EIP 2.0/3.0
+show_downloads: true
