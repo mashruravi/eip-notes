@@ -1,2 +1,4 @@
-EIP notes
+Contents
 ======
+
+- Using TPUs on Google Colaboratory
