@@ -6,7 +6,7 @@ relativ_links:
 include:
   - README.md
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 title: EIP notes
 description: Notes taken during EIP 2.0/3.0
 show_downloads: true
